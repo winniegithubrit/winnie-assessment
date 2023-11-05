@@ -1,5 +1,6 @@
 import React from 'react'
 import './SocialImpact.css'
+// social impact function
 function SocialImpact() {
   return (<div className='socialImpact'>
 
@@ -9,6 +10,7 @@ function SocialImpact() {
     <div><img className='background-image' src='https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg' alt='background'></img></div>
   <div className='header2'>
         <div className='nav-header light-border'>
+          {/* logo image is here */}
           <img
             className='logo'
             src='https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg'
@@ -32,6 +34,7 @@ function SocialImpact() {
       </div>
       </div>
 </div>
+{/* small figures to be displayed  */}
 <div className='socialimpact-container2'>
   <div className='inner-social-impact-container2'>
     <div className='content-section'>
@@ -54,6 +57,7 @@ function SocialImpact() {
 <h1>56</h1>
 <h2>Investors</h2>
       </div>
+      {/* an image section */}
     </div>
     <div className='image-content'>
   <div className='socialimpact-container2-image'>
@@ -118,6 +122,7 @@ We build for today, with a lens on tomorrow.</p>
 and <span className='join'>join elewa.</span></h1>
 </div>
 </div>
+{/* footer section footer details are here */}
 
   <div className='footer'>
         <div className='footer-inner'>

@@ -1,6 +1,6 @@
 import React from 'react'
 import './Invest.css'
-
+// invest function
 function Invest() {
   return (
   <div className='invest'> 
@@ -28,7 +28,7 @@ function Invest() {
       </div>
 
 <div className='outer-investing'>
-
+{/* investing section */}
         <div className='inner-investing'>
         <h2>Trade, not aid</h2>
         <br/>
@@ -49,7 +49,7 @@ function Invest() {
       </div>
   
 
-
+{/* key figures section */}
 
 <div className='keyFigures'>
   <div className='inner-keyFigures'>
@@ -96,6 +96,7 @@ function Invest() {
 
 </div>
 </div>
+{/* elewa-section part */}
 
 <div className='elewa-section'>
   <div className='elewa-section-inner'>
@@ -143,7 +144,7 @@ function Invest() {
 <h2>Become part of our mission.
 And start investing</h2>
 </div>
-
+{/* footer section */}
      <div className='footer'>
         <div className='footer-inner'>
             <div className='footer-contacts'>

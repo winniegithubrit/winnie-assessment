@@ -1,0 +1,268 @@
+*{
+  font-family: 'DM Sans';
+}
+.heading-content{
+  display: block;
+}
+.inner-heading-content h1{
+ color:  white;
+ font-size: 52px;
+ font-weight: normal;
+}
+.inner-heading-content{
+  margin-left: 7%;
+  margin-top: 13%;
+  margin-bottom: 13%;
+}
+.inner-heading-content p{
+ font-size: 19px;
+}
+.socialimpact-container2{
+  background-color: black;
+}
+.inner-social-impact-container2{
+display: flex;
+max-width: 90%;
+flex-direction: column;
+margin: auto;
+}
+
+.content-section{
+  display : flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid grey ;
+
+
+}
+.content-section h1{
+  color:  white;
+  font-size: 72px;
+
+
+}
+.content-section h2{
+  color: white;
+  font-size: 32px;
+  font-weight: normal;
+}
+.socialimpact-container2-content h1{
+  color: white;
+  font-size: 48px;
+  font-weight: normal;
+  max-width: 60%;
+}
+.image-content{
+display:  flex;
+padding-top: 40px;
+}
+
+.content-box{
+  margin-right: 30px;
+}
+.socialimpact-container2-image img{
+  max-height: max(70vh, 500px);
+    max-width: 45vw;
+    object-fit: cover;
+    border-radius: 2rem;
+    padding-bottom: 6%;
+  }
+
+ .socialimpact-container2-content {
+margin-left: 4%;
+font-size: 21px;
+    }
+.mindset{
+  display: block;
+  background-color: rgb(241, 241, 241);
+  
+}
+.inner-mindset{
+  max-width: 90%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  
+  
+}
+.inner-mindset p{
+  color: black;
+  font-size: 24px;
+}
+.inner-mindset h1{
+  font-size: 48px;
+  font-weight: normal;
+}
+.inner-mindset img{
+    max-height: max(70vh, 500px);
+      max-width: 45vw;
+      object-fit: cover;
+      border-radius: 2rem;
+      padding-bottom: 6%;
+      margin-top: 6%;
+    }
+
+    .beyond{
+      display:  block;
+      background-color: rgb(241, 241, 241);
+      padding-top: 50px;
+      border-radius: 0 0 23px 23px;
+    }
+    .inner-beyond{
+      display: flex;
+      align-items: center;
+      max-width: 90%;
+      margin: auto;
+
+    }
+    .beyond-content h1{
+      font-size: 48px;
+      font-weight: normal;
+
+    }
+    .beyond-content p{
+      color: black;
+      font-size: 24px;
+    }
+    .beyond-content{
+      max-width: 50%;
+      margin-left: 8%;
+
+    }
+    .knowledge{
+      display:  block;
+      background-color: black;
+     
+    }
+.inner-knowledge{
+  display: flex;
+  max-width: 90%;
+  margin: auto;
+  align-items: center;
+  
+
+}
+.inner-knowledge h1{
+        font-weight: normal;
+        font-size: 48px;
+        color: white;
+
+}
+.inner-knowledge img{
+      max-height: max(70vh, 500px);
+        max-width: 45vw;
+        object-fit: cover;
+        border-radius: 2rem;
+        padding-bottom: 6%;
+        margin-top: 6%;
+
+}
+.inner-knowledge p{
+      font-size: 24px;
+      color: white;
+
+}
+.knowledge-content{
+      max-width: 50%;
+      margin-left: 8%;
+}
+.section3{
+  background-color: black;
+}
+/* css for the footer */
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40vh;
+  background-color: black;
+  padding-inline: 0.5rem;
+  padding-top: 5rem;
+  max-width: 100%;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  color: white;
+}
+
+.footer-contacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid white;
+}
+
+.footer-inner {
+  max-width: 90%;
+  margin: auto;
+}
+
+.footer-divs {
+  margin-right: 40px;
+}
+
+.footer-divs h2 {
+  font-size: 19.2;
+  text-decoration: underline;
+
+}
+
+.footer-divs p {
+  font-size: 17.6px;
+  font-family: 'DM Sans';
+}
+
+.footer-divs p:hover {
+  text-decoration: underline;
+}
+
+.footer-logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-media-icons {
+  display: flex;
+}
+
+.social-media-icons img {
+  margin-right: 10px;
+}
+.privacy {
+  
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+
+.privacy h2 {
+  font-size: 19.2px;
+  text-decoration: underline;
+}
+
+.privacy p {
+  font-size: 17.6px;
+  font-family: 'DM Sans';
+}
+
+.privacy p:hover {
+  text-decoration: underline;
+}
+.impact {
+  display: block;
+  
+}
+.impact h1{
+  text-align: center;
+  font-size: 45px;
+  word-spacing: 3px;
+  letter-spacing: 2px;
+}
+.join{
+  font-weight: bold;
+ 
+}
+.join:hover{
+  text-decoration: underline;
+}
+
+

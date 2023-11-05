@@ -111,7 +111,7 @@ interface TeamMember {
         </div>
       </div>
 
-
+{/* culture section */}
 <div className='culture'>
   <div className='inner-culture'>
     <div className='culture-content'>
@@ -185,6 +185,7 @@ interface TeamMember {
                     <p>Cookie preferences</p>
                 </div>
             </div>
+            {/* social media platforms for the about page */}
             <div className='footer-logo'>
                 <img src='https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg'></img>
                 <div className='social-media-icons'>

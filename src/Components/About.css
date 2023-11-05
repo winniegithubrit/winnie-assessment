@@ -1,3 +1,4 @@
+/* body styling */
 *{
   font-family: 'DM Sans';
 }
@@ -238,6 +239,7 @@ font-weight: bold;
 .elewa{
   font-weight: bold;
 }
+/* styling for the footer */
 
 .footer {
   display: flex;

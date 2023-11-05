@@ -1,0 +1,74 @@
+{
+    "team-management": [
+      {
+        "name": "Jente Rossel",
+        "role": "Founder, Managing Partner",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656820/elewa-group-website/elewa-team-members/jente-elewa_wbqyyi.jpg"
+      },
+      {
+        "name": "Kennedy Adhola",
+        "role": "Operations & Partnerships",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656822/elewa-group-website/elewa-team-members/ken-elewa_ydwzop.jpg"
+      },
+      {
+        "name": "Peter Reinartz",
+        "role": "Executive Chairman",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656822/elewa-group-website/elewa-team-members/peter-elewa_zuzovx.jpg"
+      },
+      {
+        "name": "Noella Mwanzia",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679660055/elewa-group-website/elewa-team-members/noella-elewa_g6tquq.jpg"
+      },
+      {
+        "name": "Ian Odhiambo",
+        "role": "Founder Kujali",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656821/elewa-group-website/elewa-team-members/ian-elewa_bejey9.jpg"
+      },
+      {
+        "name": "Janet Njoroge",
+        "role": "Software Developer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656821/elewa-group-website/elewa-team-members/jane-elewa_yyybka.jpg"
+      },
+      {
+        "name": "Shawn Chiama",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,q_90,w_600/v1679657743/elewa-group-website/elewa-team-members/shawn-elewa_tt3iit.jpg"
+      },
+      {
+        "name": "Joy-Lidah Wawira",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,q_90,w_800/v1679984133/elewa-group-website/elewa-team-members/joy_gvbweu.jpg"
+      },
+      {
+        "name": "Reagan Charana",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656821/elewa-group-website/elewa-team-members/reagan-elewa_bn8xkl.jpg"
+      },
+      {
+        "name": "Paul Chesa",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,q_90,w_600/v1679666201/elewa-group-website/elewa-team-members/chesa-elewa_soeb8f.jpg"
+      },
+      {
+        "name": "Jeff King'ori",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679665800/elewa-group-website/elewa-team-members/jeff-elewa_hdupp7.jpg"
+      },
+      {
+        "name": "Lynn Anastasia",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,h_1000/v1682586211/IMG_9755_vfprhm.jpg"
+      },
+      {
+        "name": "Frankline Odero",
+        "role": "Software Developer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679656822/elewa-group-website/elewa-team-members/zip-elewa_jksbfg.jpg"
+      },
+      {
+        "name": "Stephen Mwaura",
+        "role": "Software Engineer",
+        "image": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679985792/elewa-group-website/elewa-team-members/lemmy_oosngt.jpg"
+      }
+    ]
+  }

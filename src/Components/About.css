@@ -1,4 +1,6 @@
-
+*{
+  font-family: 'DM Sans';
+}
 .darken{
   content: "";
   position: absolute;
@@ -14,17 +16,7 @@
 }
 /* about-header css */
 
-.team-management {
-  display: flex;
-  overflow-y: scroll;
-}
 
-.team-management img {
-  height: 50vh;
-  object-fit: cover;
-  border-radius: 20px;
-  margin-right: 20px;
-}
 
 .nav-header {
   display: flex;
@@ -60,6 +52,248 @@
   text-decoration: underline;
 }
 
+.container1 {
+  display: block;
+}
+
+.container1-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin:auto;
+  height: 70vh;
+}
+
+.container1-inner h1, p {
+  color: white;
+  font-family: 'DM Sans';
+}
+
+.container1-inner h2 {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  font-size: 19.2px;
+  font-family: 'DM Sans';
+}
+
+.care-main{
+  display: block;
+  background-color: white;
+  margin-top: 40px;
+}
+.care-main-inner{
+  max-width: 90%;
+  margin: auto;
+
+}
+.care-main-inner p {
+  color: black;
+
+}
+
+.care-main-inner  h1{
+font-size: 48px;
+font-weight: bold;
+}
 
 
+.we-care-paragraph{
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+}
 
+.paragraph1{
+  flex-basis: 45%;
+}
+.paragraph2{
+  flex-basis: 45%;
+}
+
+.care-images{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.care-images p{
+  color: black;
+  font-size: 23px;
+  
+}
+
+.inner-team-management {
+  display: flex;
+  overflow-y: scroll;
+  padding-top: 60px;
+}
+
+.inner-team-management::-webkit-scrollbar {
+ width: 10px;
+}
+
+
+.inner-team-management img {
+  height: 50vh;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+.team-management{
+  background-color: black;
+  padding-top: 40px;
+}
+.team-management h1{
+  color: white;
+  font-size: 50px;
+}
+.manage{
+  color: rgba(202, 199, 199, 0.648);
+}
+
+.inner-team-management h1{
+  font-size: 30px;
+}
+/* culture section */
+
+.culture{
+  display: block;
+
+}
+
+.inner-culture{
+  max-width: 50%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: auto;
+
+}
+.inner-culture p{
+  color: black;
+}
+.code-t{
+  font-style: italic;
+}
+.inner-culture-section{
+  display: flex;
+  justify-content: center;
+
+  flex-wrap: wrap;
+  flex-direction: row;
+
+ 
+}
+.culture-image{
+  width: 40%;
+  background-color: white;
+
+
+}
+.inner-culture-section p{
+  color: black;
+
+}
+.how-container{
+  display: block;
+  background-color: rgb(235, 234, 234);
+}
+.how-inner-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 90%;
+  margin: auto;
+  padding: 100px;
+
+
+}
+.how-inner-container p{
+  color: black;
+  
+}
+
+.how-inner-container button{
+  border: none;;
+  padding:10px 30px;
+  background-color: black;
+  color:white;
+  border-radius: 33px;
+}
+.learn-more-inner{
+  display:  flex;
+  margin: auto;
+  height: 60vh;
+  align-items: center;
+  justify-content: center;
+}
+.learn-more-inner h1 {
+  font-size: 72px;
+  font-weight: normal;
+  
+}
+.elewa:hover{
+  text-decoration: underline;
+
+}
+.elewa{
+  font-weight: bold;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40vh;
+  background-color: black;
+  padding-inline: 0.5rem;
+  padding-top: 3rem;
+  max-width: 100%;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  color: white;
+}
+
+.footer-contacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid white;
+}
+
+.footer-inner {
+  max-width: 90%;
+  margin: auto;
+}
+
+.footer-divs {
+  margin-right: 40px;
+}
+
+.footer-divs h2 {
+  font-size: 19.2;
+  text-decoration: underline;
+  
+}
+
+.footer-divs p {
+  font-size: 17.6px;
+  font-family: 'DM Sans';
+}
+
+.footer-divs p:hover {
+  text-decoration: underline;
+}
+
+.footer-logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-media-icons {
+  display: flex;
+}
+
+.social-media-icons img {
+  margin-right: 10px;
+}

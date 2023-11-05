@@ -11,7 +11,7 @@ interface TeamMember {
   function About() {
     const [teamMembers, setTeamMembers] = useState<TeamMember[]>([]); // Annotate the state variable
     useEffect(() => {
-      // Use the imported JSON data directly
+      
       setTeamMembers(jsonData['team-management']);
     }, []);
   return (

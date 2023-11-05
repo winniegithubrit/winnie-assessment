@@ -1,21 +1,27 @@
 import React from 'react'
+import './SocialImpact.css'
 function SocialImpact() {
   return (<div className='socialImpact'>
   <div className='heading'>
 
     <div><img className='background-image' src='https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg' alt='background'></img></div>
-  <div className='logo'>
-    <img
+  <div className='header2'>
+        <div className='nav-header light-border'>
+          <img
             className='logo'
             src='https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg'
             alt='logo'
           ></img>
-  </div>
-           <ul>
-        <li><a href='/'>SocialImpact</a></li>
-        <li><a href='/about'>About</a></li>
-        <li><a href='/invest'>Invest</a></li>
-      </ul>
+          <div>
+        {/* this is the menu and some items for the navbar */}
+            <ul className='nav-items'>
+              <li><a href='/about'>About us</a></li>
+              <li><a href='/'>Social Impact</a></li>
+              <li><a href='/invest'>Invest</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <div className='heading-content'>
         <h1>Scaling impact. Beyond the norm</h1>
         <p>Human and Environmental Impact through Social Enterprise</p>
